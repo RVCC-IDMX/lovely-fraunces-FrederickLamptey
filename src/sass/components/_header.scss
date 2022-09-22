@@ -8,6 +8,12 @@
   @include mixins.flex-center();
   flex-wrap: wrap;
   padding-top: 2rem;
+  font-family: 'Fraunces';
+	font-variation-settings: "opsz" 72, "SOFT" 80.2, "WONK" 0.449;
+	font-weight: 430;
+
+
+
 
   &__title {
     color: var.$primary-very-dark;

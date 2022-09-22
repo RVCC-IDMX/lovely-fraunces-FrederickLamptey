@@ -7,3 +7,22 @@ body {
   font-family: type.$font;
   background-color: var.$bg-very-light;
 }
+h1{
+  font-family: 'Fraunces';
+	font-variation-settings: "opsz" 63, "WONK" 1, "SOFT" 67.2;
+	font-weight: 741;
+}
+
+.header__desc--first{
+  font-family: 'Fraunces';
+  font-variation-settings: "opsz" 106, "SOFT" 29.7, "WONK" 0.406;
+  font-weight: 546;
+  font-style: italic;
+}
+
+.header__desc{
+	font-variation-settings: "opsz" 85, "SOFT" 93.2, "WONK" 0.449;
+	font-weight: 543;
+
+}
+
